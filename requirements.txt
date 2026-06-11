@@ -1,0 +1,13 @@
+beautifulsoup4==4.15.0
+datasets==5.0.0
+df==0.0.1
+librosa==0.11.0
+matplotlib==3.8.4
+numpy==2.4.6
+pandas==3.0.3
+parselmouth==1.1.1
+scipy==1.17.1
+seaborn==0.13.2
+soundfile==0.14.0
+torch==2.9.1
+tqdm==4.67.1
