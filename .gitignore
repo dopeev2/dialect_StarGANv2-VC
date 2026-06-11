@@ -1,0 +1,26 @@
+# Аудио и большие данные
+*.wav
+*.mp3
+*.flac
+corpus_24k/
+corpus_raw/
+
+# Чекпоинты модели
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# Кэш Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Среды
+.env
+venv/
+*.egg-info/
+
+# Временные файлы
+*.log
+*.tmp
