@@ -7,12 +7,12 @@ download_librispeech_ru.py
 Использование:
     # Тест — только 20 записей на диктора:
     python download_librispeech_ru.py ^
-        --out D:/DIPLOMA/data_scraping/librispeech_ru ^
+        --out УКАЖИТЕ_ПАПКУ ^
         --max_per_speaker 20
 
     # Полная загрузка:
     python download_librispeech_ru.py ^
-        --out D:/DIPLOMA/data_scraping/librispeech_ru ^
+        --out УКАЖИТЕ_ПАПКУ ^
         --max_per_speaker 500
 
 Установка:
