@@ -2,6 +2,7 @@
 *.wav
 *.mp3
 *.flac
+corpus_22k/
 corpus_24k/
 corpus_raw/
 
